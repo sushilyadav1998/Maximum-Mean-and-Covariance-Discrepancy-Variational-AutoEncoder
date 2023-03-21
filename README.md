@@ -1,7 +1,7 @@
 # Maximum-Mean-and-Covariance-Discrepancy-Variational-AutoEncoder
 Maximum Mean and Covariance Discrepancy Variational AutoEncoder (MMCD VAE)
 
-### Details and motivation are described in the below paper. For your convenience the same code is provided in both python and ipython.
+### Details and motivation are described in the below paper.
 https://thesai.org/Publications/ViewPaper?Volume=13&Issue=6&Code=IJACSA&SerialNo=104
 
 Main MMCD VAE code: mmcd_vae.py
